@@ -10,6 +10,7 @@ The program removes unwanted special characters, eliminates empty or invalid mes
 
 
 🎯 Objective
+
 1)To remove unwanted special characters from chat messages.
 
 2)To normalize and format text properly.
@@ -22,6 +23,7 @@ The program removes unwanted special characters, eliminates empty or invalid mes
 
 
 ✨ Features
+
 1)Removes special characters like @, #, !, $, etc.
 
 2)Eliminates extra spaces from messages.
@@ -71,7 +73,7 @@ git clone https://github.com/haasini567/chat-message-cleaner
 cd chat-message-cleaner
 
 3. Run the program:
-4. 
+   
 python cleaner.py
 
 
