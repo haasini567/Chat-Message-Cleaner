@@ -5,6 +5,7 @@ Python project to clean and process chat messages
 📩 Chat Message Cleaner
 
 📄 Description
+
 A command-line based Python application that cleans and processes chat messages efficiently.
 The program removes unwanted special characters, eliminates empty or invalid messages, normalizes text formatting, and generates a clean list of readable messages. It uses functions, string operations, regular expressions, and exception hand.
 
