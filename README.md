@@ -80,25 +80,41 @@ python cleaner.py
 📌 Sample Input
 
 messages = [
-    "Hello!!!",
-    "Buy now $$$",
-    "Good morning :)",
-    "",
-    "   Extra spaces   ",
-    "Wow!!! Amazing!!!",
-    "123456",
-    "@@@###",
-    "Python is fun!!",
-    None
-]
+ "Hello!!!",
+ 
+ "Buy now $$$",
+ 
+ "Good Morning :)",
+ 
+ "",
+ 
+ " Extra spaces ",
+ 
+ "Wow!!!Amazing!!!",
+ 
+ "123456",
+ 
+ "@@@###",
+ 
+ "Python is fun!!"",
+ 
+ None
+ ]
+ 
 
 
 📤 Sample Output
 
 ['hello',
+
  'buy now',
+ 
  'good morning',
+ 
  'extra spaces',
+ 
  'wow amazing',
+ 
  '123456',
+ 
  'python is fun']
